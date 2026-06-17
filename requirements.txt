@@ -1,0 +1,7 @@
+requests
+pandas
+matplotlib
+scikit-learn
+streamlit
+openpyxl
+xlrd
